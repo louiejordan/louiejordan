@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @louiejordan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 你好, 我是 @louiejordan
+- 👀 我是利物浦的铁杆球迷
+- 🌱 我正在学习我不熟悉的一切
+- 💞️ 我希望能够和大家共同进步
+- 📫 不要想联系到我
 
 <!---
 louiejordan/louiejordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
