@@ -1,7 +1,7 @@
-- 👋 你好, 我是 @louiejordan
-- 👀 一个活人
-- 🌱 碰巧来这世上走一遭
-- 💞️ 我希望能够和所有人共同前进
+- 👋 Hello I'm @louiejordan.
+- 👀 I'm a living man.
+- 🌱 I happened to come to this world for a while.
+- 💞️ I want to be able to move forward with everyone.
 - 📫 admin@uisi.org
 
 <!---
